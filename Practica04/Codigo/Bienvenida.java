@@ -3,6 +3,8 @@ public class Bienvenida	{
 		String nombreCompleto = "Sebastian Rivero Hernández";
 		int numeroCuenta = 324108297;
 		String interesGeneral = "El futbol en general";
-		System.out.println(nombreCompleto +"\n "+ numeroCuenta +"\n "+interesGeneral);
+		int edad = 18;
+		char inicial = 'S';
+		System.out.println(nombreCompleto +"\n "+ numeroCuenta +"\n "+interesGeneral + "\n " + "Mi edad es " + edad + "\n " + "Mi inicial es " + inicial);
 	}
 }
